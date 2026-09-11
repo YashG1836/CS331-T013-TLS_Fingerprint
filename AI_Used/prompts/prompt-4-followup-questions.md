@@ -1,17 +1,21 @@
-# Prompt 4 — follow-up questions (sent to Claude Code)
+# Prompt 4 (given to Claude Code)
 
-Questions we asked to confirm how the database, the captures and the tests were
-actually produced, so we could reproduce them ourselves. Reproduced verbatim.
+questions i asked so i could understand what got built and run it myself. copied as i
+typed it.
 
 ---
 
-Okay now I have a few questions:
+okay now i have a few question
 
-1. Where did you find the `.json` file — how did you create this database? Are these
-   available somewhere, or is it manual work, or did you run some scripts?
-2. We use Wireshark to see the packets, their details, ClientHello or ServerHello —
-   so where did you access those packets from?
-3. Are we doing the Wireshark thing using `.pcap`? Does that mean packet capture?
-4. What all can I run on the terminal to check, and where are your checked results —
-   how can I reproduce them for myself?
-5. If everything works fine, does that mean we don't need the test folder?
+1) where did u find the .json file, means how did u create this database? arey the
+avaiable? or its a manual work? or did u run some scripts?
+
+2) We use wireshark to see the packets, its details, hello cleint or server, so like
+where did u access those packets from?
+
+3) are we doing the wireshark vali thing using .pcap ? does it mean packet capture?
+
+4) what all things i can run on terminal to check, also where are the ur checked
+results, how can i reporduce them for myself
+
+5) If everything works fine, means we dont need the test folder ig?
